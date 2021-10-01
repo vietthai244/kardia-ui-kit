@@ -2,7 +2,7 @@
   "name": "@pancakeswap/uikit",
   "version": "0.54.4",
   "description": "Set of UI components for pancake projects",
-  "main": "src/index.ts",
+  "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
